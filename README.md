@@ -12,6 +12,17 @@ Each role has different access permissions and views.
 
 ---
 
+## 🏫 Roles & Permissions
+
+| Role        | Access Level |
+|------------|-------------|
+| Staff      | Manage student records |
+| HOD        | Department-level monitoring |
+| Principal  | Full overview and reporting |
+
+---
+
+
 ## 🚀 Features
 
 ✅ Staff-only secure login  
